@@ -1,0 +1,13 @@
+za\co\mecer\LibraryTest.class
+za\co\mecer\ClientInterface.class
+za\co\mecer\Service.class
+za\co\mecer\Book.class
+za\co\mecer\Author.class
+za\co\mecer\Services.class
+za\co\mecer\Payment.class
+za\co\mecer\LoanInterface.class
+za\co\mecer\Loan.class
+za\co\mecer\PaymentInterface.class
+za\co\mecer\Client.class
+za\co\mecer\BookInterface.class
+za\co\mecer\AuthorInterface.class
